@@ -12,3 +12,6 @@ pip install selenium
 c. Chrome driver: Please install the latest version of chromedriver 
 
 We will be scrapping the first link of our google search.
+
+Here I am attaching the scraping test (csv) having list of google searches
+As of now I am searching for two companies
