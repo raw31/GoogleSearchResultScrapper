@@ -34,5 +34,5 @@ for i in temp['Company Name']:
 #Appending the result to the dataframe temp and exporting it
 temp['google'] = res
 temp.to_csv("result1.csv")
-
+browser.close()
 # you can also open the Result of search by using .click() function.
