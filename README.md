@@ -10,6 +10,7 @@ b. Selenium package: You can install selenium package using the following comma
 pip install selenium
 
 c. Chrome driver: Please install the latest version of chromedriver 
+LINK: https://chromedriver.chromium.org/downloads
 
 We will be scrapping the first link of our google search.
 
