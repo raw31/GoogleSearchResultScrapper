@@ -1,5 +1,5 @@
 # GoogleSearchResultScrapper
-Hereby this code, you will be able to scrap the results of google search using Selenium-python.
+Using this, you will be able to scrap the results of google search using Selenium-python.
 
 
 Before that below are some of the housekeeping instructions regarding installations of packages.  
@@ -9,7 +9,7 @@ b. Selenium package: You can install selenium package using the following comma
 
 pip install selenium
 
-c. Chrome driver: Please install the latest version of chromedriver 
+c. Chrome driver: You need to install the latest version of chromedriver 
 LINK: https://chromedriver.chromium.org/downloads
 
 We will be scrapping the first link of our google search.
